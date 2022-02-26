@@ -33,16 +33,20 @@ Run These Commands In The Terminal Or In The Command Prompt To Perform The Respe
 
 ### Working
 
-<h5> To View The Commands Available </h5>
+<h4> **To View The Commands Available** </h4>
+
 ![image](https://user-images.githubusercontent.com/91713896/155833524-39afce68-e786-49ff-8050-ef89892db8ab.png)
 
-<h6> To Change The Format Of The Image </h6>
+<h5> **To Change The Format Of The Image** </h5>
+
 ![image](https://user-images.githubusercontent.com/91713896/155833605-522002c2-7404-480b-96a6-4712e5622815.png)
 
-<h7> To Crop The Image </h7>
+<h6> **To Crop The Image** </h6>
+
 ![image](https://user-images.githubusercontent.com/91713896/155833656-eef2aa06-0966-402f-bfdb-d55f8b88aeb6.png)
 
-<h8> To Change The Dimensions Of The Image </h8>
+<h7> **To Change The Dimensions Of The Image** </h7>
+
 ![image](https://user-images.githubusercontent.com/91713896/155833706-69d572a5-c34c-49bd-b769-c938545dc562.png)
  
 **The Output Files Will Be Saved In The Current Working Directory Of The Python File**
