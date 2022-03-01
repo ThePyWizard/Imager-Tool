@@ -2,8 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/91713896/155834429-9046c54e-2dbd-4a54-aced-65b9d60a17bd.png)
 
-**A command-line image format tool using which we can convert image format, resize the image, and other optional preprocessing. One can pass a single image path** 
+**A command-line image format tool using which we can convert image format, resize the image, and other optional preprocessing. One can pass a single image path. And this command line tool is easy to use and user friendly.** 
 
+## Team members
+1. Jishnu M M
+2. Anna Maria Roni
+
+## Team Id
+Python / 518
+
+## Link to project walkthrough
+https://youtu.be/mU79qz2OwXI
 
 <h1> Python Packages to Install </h1>
 
